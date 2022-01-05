@@ -1,4 +1,4 @@
-![not a js dev](https://user-images.githubusercontent.com/80411896/148174388-2234cf17-86b2-488d-a9a7-714f87761902.png)
+![not a js dev](https://user-images.githubusercontent.com/80411896/148182373-14b6c1e2-3428-45f6-a5ed-7b229680323a.png)
 ## ⚙️ Not a JS Dev
 Hi, i'm selflearning young programmer. Don't call me developer couse i'm making this stuff for fun
 ### What tech i'm using/learning to use:
