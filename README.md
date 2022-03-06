@@ -1,5 +1,4 @@
-![not a js dev](https://user-images.githubusercontent.com/80411896/148182373-14b6c1e2-3428-45f6-a5ed-7b229680323a.png)
-## ⚙️ Not a JS Dev
+## ⚙️ kameHame HA
 Hi, im selflearning young programmer. Don't call me developer cause i'm making this stuff for fun
 ### What tech i'm using/learning to use:
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
