@@ -10,7 +10,7 @@ console.log(data)
 {
     name: 'Bartek',
     nickname: 'kameHame HA',
-    age: 17,
+    age: 18,
     launguages: [
         'Polish',
         'English (Communicative)'
