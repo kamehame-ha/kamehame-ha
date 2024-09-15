@@ -1,4 +1,4 @@
-# kameHame HA / Bartek
+# Bartek aka. kameHame HA
 ***Web Developer with some backend experience***
 
 ### Who am i?
