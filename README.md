@@ -10,14 +10,15 @@ console.log(data)
 {
     name: 'Bartek',
     nickname: 'kameHame HA',
-    age: 18,
+    age: 19,
     launguages: [
-        'Polish (native)',
+        'Polish (native)',,
         'English B2'
     ],
     hobby: [
-        'FrontEnd Development'
-        'RaspberryPI'
+        'FullStack Development',
+        'RaspberryPI',
+        '3D Modeling & Printing'
     ]
 }
 ```
