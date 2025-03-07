@@ -24,5 +24,5 @@ console.log(data)
 
 ### I use those technologies/frameworks
 Nuxt.js - Vue.js - JavaScript - TypeScript - MongoDB - Supabase - ASP.Net Core - C# - TailwindCSS
-### Wanna order website?
-Contact me on discord: `kameHame HA#5545`
+### Contact
+Discord: `kamehame_ha`
