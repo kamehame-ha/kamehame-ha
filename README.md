@@ -12,7 +12,6 @@ console.log(data)
     nickname: 'kameHame HA',
     age: 19,
     launguages: [
-        'Polish (native)',
         'English B2'
     ],
     hobby: [
