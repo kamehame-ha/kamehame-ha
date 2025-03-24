@@ -1,5 +1,4 @@
 # Bartek aka. kameHame HA
-***Web Developer with some backend experience***
 
 ### Who am i?
 ```js
@@ -9,7 +8,6 @@ console.log(data)
 // Logging User Data...
 {
     name: 'Bartek',
-    nickname: 'kameHame HA',
     age: 19,
     launguages: [
         'English B2'
@@ -23,6 +21,6 @@ console.log(data)
 ```
 
 ### I use those technologies/frameworks
-Nuxt.js - Vue.js - JavaScript - TypeScript - MongoDB - Supabase - ASP.Net Core - C# - TailwindCSS
+Nuxt.js - Vue.js - JavaScript - TypeScript - MongoDB - Supabase - ASP.Net Core - C# - TailwindCSS - C++ - Azure - Oracle
 ### Contact
 Discord: `kamehame_ha`
