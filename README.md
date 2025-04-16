@@ -7,35 +7,47 @@
 
 - 📫 How to reach me **Discord: kamehame_ha**
 
+<h3 align="left">What i do best?</h3>
+
+Currently? Websites, since i started my journey in IT world by making them. But im open-minded and ready to try new things
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-</p>
+  <!-- Languages -->
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" alt="Nuxt.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/sass/CC6699" alt="SASS" width="40" height="40"/>
 
-*Some of those i know better some less*
+  <!-- Backend / Database -->
+  <img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" alt="Supabase" width="40" height="40"/>
+
+  <!-- DevOps / Cloud -->
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/nginx/009639" alt="Nginx" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle Cloud" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" width="40" height="40"/>
+
+  <!-- IoT / Hardware / Tools -->
+  <img src="https://cdn.simpleicons.org/arduino/00979D" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" width="40" height="40"/>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamehame-ha&show_icons=true&locale=en" alt="kamehame-ha" /></p>
 
